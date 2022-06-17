@@ -18,6 +18,10 @@
 	path = Graphics
 	url = git@github.com:Sayeem2004/Graphics.git
 	branch = main
+[submodule "PhysicsC/ElectricHITW"]
+	path = PhysicsC/ElectricHITW
+	url = git@github.com:Sayeem2004/ElectricHITW.git
+	branch = main
 [submodule "SciFi/Nyx"]
 	path = SciFi/Nyx
 	url = git@github.com:Sayeem2004/Nyx.git
@@ -133,8 +137,4 @@
 [submodule "Systems/Work23"]
 	path = Systems/Work23
 	url = git@github.com:Sayeem2004/Work23.git
-	branch = main
-[submodule "PhysicsC/ElectricHITW"]
-	path = PhysicsC/ElectricHITW
-	url = git@github.com:Sayeem2004/ElectricHITW.git
 	branch = main
