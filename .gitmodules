@@ -1,0 +1,140 @@
+[submodule "Algebra2"]
+	path = Algebra2
+	url = git@github.com:Sayeem2004/Algebra2.git
+	branch = main
+[submodule "APCS"]
+	path = APCS
+	url = git@github.com:Sayeem2004/APCS.git
+	branch = main
+[submodule "IntroCS"]
+	path = IntroCS
+	url = git@github.com:Sayeem2004/IntroCS.git
+	branch = main
+[submodule "GoogleMentorship/TopoTraversal"]
+	path = GoogleMentorship/TopoTraversal
+	url = git@github.com:Sayeem2004/TopoTraversal.git
+	branch = main
+[submodule "Graphics"]
+	path = Graphics
+	url = git@github.com:Sayeem2004/Graphics.git
+	branch = main
+[submodule "SciFi/Nyx"]
+	path = SciFi/Nyx
+	url = git@github.com:Sayeem2004/Nyx.git
+	branch = main
+[submodule "StuyCCC/CCC"]
+	path = StuyCCC/CCC
+	url = git@github.com:Sayeem2004/CCC.git
+	branch = main
+[submodule "StuyCCC/stuyccc.github.io"]
+	path = StuyCCC/stuyccc.github.io
+	url = git@github.com:StuyCCC/stuyccc.github.io.git
+	branch = master
+[submodule "Systems/Project-00-myTunes"]
+	path = Systems/Project-00-myTunes
+	url = git@github.com:Sayeem2004/Project-00-myTunes.git
+	branch = main
+[submodule "Systems/Project-01-shell"]
+	path = Systems/Project-01-shell
+	url = git@github.com:Sayeem2004/Project-01-shell.git
+	branch = main
+[submodule "Systems/Project-02-harmony"]
+	path = Systems/Project-02-harmony
+	url = git@github.com:Sayeem2004/Project-02-harmony.git
+	branch = main
+[submodule "Systems/Work01"]
+	path = Systems/Work01
+	url = git@github.com:Sayeem2004/Work01.git
+	branch = master
+[submodule "Systems/Work02"]
+	path = Systems/Work02
+	url = git@github.com:Sayeem2004/Work02.git
+	branch = main
+[submodule "Systems/Work03"]
+	path = Systems/Work03
+	url = git@github.com:Sayeem2004/Work03.git
+	branch = main
+[submodule "Systems/Work04"]
+	path = Systems/Work04
+	url = git@github.com:Sayeem2004/Work04.git
+	branch = main
+[submodule "Systems/Work05"]
+	path = Systems/Work05
+	url = git@github.com:Sayeem2004/Work05.git
+	branch = main
+[submodule "Systems/Work06"]
+	path = Systems/Work06
+	url = git@github.com:Sayeem2004/Work06.git
+	branch = main
+[submodule "Systems/Work07"]
+	path = Systems/Work07
+	url = git@github.com:Sayeem2004/Work07.git
+	branch = main
+[submodule "Systems/Work08"]
+	path = Systems/Work08
+	url = git@github.com:Sayeem2004/Work08.git
+	branch = main
+[submodule "Systems/Work09"]
+	path = Systems/Work09
+	url = git@github.com:Sayeem2004/Work09.git
+	branch = main
+[submodule "Systems/Work10"]
+	path = Systems/Work10
+	url = git@github.com:Sayeem2004/Work10.git
+	branch = main
+[submodule "Systems/Work11"]
+	path = Systems/Work11
+	url = git@github.com:Sayeem2004/Work11.git
+	branch = main
+[submodule "Systems/Work12"]
+	path = Systems/Work12
+	url = git@github.com:Sayeem2004/Work12.git
+	branch = main
+[submodule "Systems/Work13"]
+	path = Systems/Work13
+	url = git@github.com:Sayeem2004/Work13.git
+	branch = main
+[submodule "Systems/Work14"]
+	path = Systems/Work14
+	url = git@github.com:Sayeem2004/Work14.git
+	branch = main
+[submodule "Systems/Work15"]
+	path = Systems/Work15
+	url = git@github.com:Sayeem2004/Work15.git
+	branch = main
+[submodule "Systems/Work16"]
+	path = Systems/Work16
+	url = git@github.com:Sayeem2004/Work16.git
+	branch = main
+[submodule "Systems/Work17"]
+	path = Systems/Work17
+	url = git@github.com:Sayeem2004/Work17.git
+	branch = main
+[submodule "Systems/Work18"]
+	path = Systems/Work18
+	url = git@github.com:Sayeem2004/Work18.git
+	branch = main
+[submodule "Systems/Work19"]
+	path = Systems/Work19
+	url = git@github.com:Sayeem2004/Work19.git
+	branch = main
+[submodule "Systems/Work20"]
+	path = Systems/Work20
+	url = git@github.com:Sayeem2004/Work20.git
+	branch = main
+[submodule "Systems/Work21"]
+	path = Systems/Work21
+	url = git@github.com:Sayeem2004/Work21.git
+	branch = main
+[submodule "Systems/Work22"]
+	path = Systems/Work22
+	url = git@github.com:Sayeem2004/Work22.git
+	branch = main
+[submodule "Systems/Work23"]
+	path = Systems/Work23
+	url = git@github.com:Sayeem2004/Work23.git
+	branch = main
+[submodule "PhysicsC/ElectricHITW"]
+	path = PhysicsC/ElectricHITW
+	url = git@github.com:Sayeem2004/ElectricHITW.git
+	branch = main
