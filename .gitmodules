@@ -42,10 +42,6 @@
 	path = Systems/Project-01-shell
 	url = git@github.com:Sayeem2004/Project-01-shell.git
 	branch = main
-[submodule "Systems/Project-02-harmony"]
-	path = Systems/Project-02-harmony
-	url = git@github.com:Sayeem2004/Project-02-harmony.git
-	branch = main
 [submodule "Systems/Work01"]
 	path = Systems/Work01
 	url = git@github.com:Sayeem2004/Work01.git
@@ -137,4 +133,8 @@
 [submodule "Systems/Work23"]
 	path = Systems/Work23
 	url = git@github.com:Sayeem2004/Work23.git
+	branch = main
+[submodule "Systems/Project-02-Harmony"]
+	path = Systems/Project-02-Harmony
+	url = git@github.com:Sayeem2004/Project-02-Harmony.git
 	branch = main
