@@ -1,39 +1,27 @@
-[submodule "Algebra2"]
-	path = Algebra2
-	url = git@github.com:Sayeem2004/Algebra2.git
-	branch = main
 [submodule "APCS"]
 	path = APCS
 	url = git@github.com:Sayeem2004/APCS.git
+	branch = main
+[submodule "CCC"]
+	path = CCC
+	url = https://github.com/StuyCCC/stuyccc.github.io.git
+	branch = master
+[submodule "Graphics"]
+	path = Graphics
+	url = git@github.com:Sayeem2004/Graphics.git
 	branch = main
 [submodule "IntroCS"]
 	path = IntroCS
 	url = git@github.com:Sayeem2004/IntroCS.git
 	branch = main
-[submodule "GoogleMentorship/TopoTraversal"]
-	path = GoogleMentorship/TopoTraversal
-	url = git@github.com:Sayeem2004/TopoTraversal.git
+[submodule "Physics"]
+	path = Physics
+	url = https://github.com/Sayeem2004/ElectricHITW.git
 	branch = main
-[submodule "Graphics"]
-	path = Graphics
-	url = git@github.com:Sayeem2004/Graphics.git
+[submodule "ScienceFiction"]
+	path = ScienceFiction
+	url = https://github.com/Sayeem2004/ScienceFiction.git
 	branch = main
-[submodule "PhysicsC/ElectricHITW"]
-	path = PhysicsC/ElectricHITW
-	url = git@github.com:Sayeem2004/ElectricHITW.git
-	branch = main
-[submodule "SciFi/Nyx"]
-	path = SciFi/Nyx
-	url = git@github.com:Sayeem2004/Nyx.git
-	branch = main
-[submodule "StuyCCC/CCC"]
-	path = StuyCCC/CCC
-	url = git@github.com:Sayeem2004/CCC.git
-	branch = main
-[submodule "StuyCCC/stuyccc.github.io"]
-	path = StuyCCC/stuyccc.github.io
-	url = git@github.com:StuyCCC/stuyccc.github.io.git
-	branch = master
 [submodule "Systems/Project-00-myTunes"]
 	path = Systems/Project-00-myTunes
 	url = git@github.com:Sayeem2004/Project-00-myTunes.git
