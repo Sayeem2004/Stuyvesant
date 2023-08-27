@@ -22,9 +22,9 @@
 	path = Physics
 	url = https://github.com/Sayeem2004/ElectricHITW.git
 	branch = main
-[submodule "ScienceFiction"]
-	path = ScienceFiction
-	url = https://github.com/Sayeem2004/ScienceFiction.git
+[submodule "SciFi"]
+	path = SciFi
+	url = https://github.com/Sayeem2004/SciFi.git
 	branch = main
 [submodule "Systems/Project-00-myTunes"]
 	path = Systems/Project-00-myTunes
@@ -129,4 +129,8 @@
 [submodule "Systems/Project-02-Harmony"]
 	path = Systems/Project-02-Harmony
 	url = git@github.com:Sayeem2004/Project-02-Harmony.git
+	branch = main
+[submodule "GoogleMentorship"]
+	path = GoogleMentorship
+	url = https://github.com/Sayeem2004/TopoTraversal.git
 	branch = main
