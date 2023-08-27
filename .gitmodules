@@ -2,6 +2,10 @@
 	path = APCS
 	url = git@github.com:Sayeem2004/APCS.git
 	branch = main
+[submodule "Algebra2"]
+    path = Algebra2
+    url = git@github.com:Sayeem2004/Algebra2.git
+    branch = main
 [submodule "CCC"]
 	path = CCC
 	url = https://github.com/StuyCCC/stuyccc.github.io.git
